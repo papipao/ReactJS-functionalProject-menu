@@ -1,14 +1,11 @@
 import React from 'react';
 import './App.css';
-import Index from './components/functionComponents/Index';
-import ToursProvider from './components/functionComponents/ToursProvider';
+import Index from './components/classComponents/reviews/Index';
 
 function App() {
   return (
-    <div className='container'>
-      <ToursProvider>
-        <Index />
-      </ToursProvider>
+    <div>
+      <Index />
     </div>
   );
 }
