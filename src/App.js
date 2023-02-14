@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Index from './components/classComponents/reviews/Index';
+import Index from './components/functionComponents/reviews/Index';
 
 function App() {
   return (
