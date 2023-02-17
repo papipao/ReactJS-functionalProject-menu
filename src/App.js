@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Index from './components/classComponents/menu/Index';
+import Index from './components/functionComponents/menu/Index';
 
 function App() {
   return (
